@@ -1,2 +1,6 @@
 # ViewCampusPlus
-以微信小程序为客户端，用来展示和查看校园内部的活动信息的工具平台(Wechat mini program as the client, used to display and view the campus activity information tool platform)
+此项目为ViewCampus的改进。(This project is an improvement of the ViewCampus project)
+## 改进一：
+为提高用户的使用体验，添加中间件redis，将热点数据放入到redis缓存中
+## 改进二:
+优化代码结构，添加必要的注释
